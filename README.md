@@ -4,11 +4,6 @@ An end-to-end **Machine Learning web application** built using **Python, Scikit-
 
 ---
 
-## 🚀 Live Demo
-*(Add your Streamlit link here after deployment)*
-
----
-
 ## 📌 Project Overview
 
 This project predicts a student's performance (e.g., math score) based on factors such as:
