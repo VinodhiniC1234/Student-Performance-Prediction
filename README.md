@@ -34,26 +34,26 @@ Data Preprocessing → Model Training → Model Saving → Web App Deployment
 
 ## 📂 Project Structure
 
+```
 Student-Performance-Prediction/
 │
 ├── data/
-│ └── student_data.csv # Dataset used for training and analysis
+│   └── student_data.csv            # Dataset used for training and analysis
 │
-├── outputs/ # Generated visualizations
-│ ├── actual_vs_predicted.png
-│ ├── distribution.png
-│ ├── feature_importance.png
-│ ├── heatmap.png
-│ ├── pairplot.png
-│ └── study_vs_score.png
+├── outputs/                        # Generated visualizations
+│   ├── actual_vs_predicted.png
+│   ├── distribution.png
+│   ├── feature_importance.png
+│   ├── heatmap.png
+│   ├── pairplot.png
+│   └── study_vs_score.png
 │
-├── src/ # Source code (if used for modular scripts)
+├── src/                            # Source code (if used for modular scripts)
 │
-├── main.py # Main execution script
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
----
+├── main.py                         # Main execution script
+├── requirements.txt                # Project dependencies
+└── README.md                       # Project documentation
+```
 
 ## 📊 Features
 
